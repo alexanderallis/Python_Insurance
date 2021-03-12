@@ -2,7 +2,7 @@
 A Python project that calculates insurance rates.
 
 ## How to Run
-Download the latest version of Python Idle from https://www.python.org/downloads/
+Download the latest version of Python IDLE from https://www.python.org/downloads/
 
 Open main.py in IDLE.
 
